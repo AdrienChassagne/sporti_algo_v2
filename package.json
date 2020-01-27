@@ -1,0 +1,19 @@
+{
+  "name": "sporti_algo",
+  "version": "1.0.0",
+  "description": "sportihome alorithm exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobbnb/sporti_algo.git"
+  },
+  "author": "sportihome team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hobbnb/sporti_algo/issues"
+  },
+  "homepage": "https://github.com/hobbnb/sporti_algo#readme"
+}
