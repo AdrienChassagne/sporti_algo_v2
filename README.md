@@ -9,6 +9,6 @@ npm install
 npm test
 ```
 
-When you are done push it to your repo and share the link to ìban.goenaga@sportihome.com`
+When you are done push it to your repo and share the link to `ìban.goenaga@sportihome.com`
 
 
